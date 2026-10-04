@@ -1,0 +1,41 @@
+name: Defect report
+description: Report a reproducible defect in a published release.
+labels: ["defect"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to report a defect. Please do not include passwords, license keys or personal data.
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: The application version, shown in Studio Hub and in the application itself.
+      placeholder: "2.0.0"
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: Windows version
+      placeholder: "Windows 11 24H2"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: The exact steps that lead to the defect.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected and actual result
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Additional details
+      description: Error messages, screenshots or diagnostic details from Studio Hub.

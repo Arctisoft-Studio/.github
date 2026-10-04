@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Account, license or purchase
+    url: https://arctisoft-studio.com/support/
+    about: Questions about your account, a license or an order are handled privately by Arctisoft support.
+  - name: Security report
+    url: https://github.com/Arctisoft-Studio/.github/blob/main/SECURITY.md
+    about: Please report vulnerabilities privately, as described in the security policy.
