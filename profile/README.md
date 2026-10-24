@@ -22,7 +22,7 @@ Arctisoft Studio is an Austrian software studio building desktop applications fo
 | [WaveShaper](https://github.com/Arctisoft-Studio/WaveShaper-Audio-Processing-Studio) | Audio processing, effects, mastering and export | Basic · Premium |
 | [Sonaris](https://github.com/Arctisoft-Studio/Sonaris-Audio-Quality-Analyzer) | Audio measurement, comparison and delivery checks | Basic · Premium |
 | [MetaEdit](https://github.com/Arctisoft-Studio/MetaEdit-Advanced-Tag-Editor) | Metadata, artwork and library organisation | Basic · Premium |
-| [Medio](https://github.com/Arctisoft-Studio/Medio-Universal-Downloader) | Media downloading and conversion | Basic · Premium |
+| [Cascera](https://github.com/Arctisoft-Studio/Cascera-Universal-Downloader) | Media downloading and conversion | Basic · Premium |
 | [Studio Hub](https://github.com/Arctisoft-Studio/Arctisoft-Studio-Hub) | Application, account and license management | Free |
 | [MixForge](https://arctisoft-studio.com/software/mixforge/) | Recording, arranging and mixing | In development |
 
