@@ -41,7 +41,7 @@ Arctisoft Studio develops desktop software for work with sound and media: proces
     Review a source and its streams, choose exactly what you need and manage the work in a recoverable queue, with profiles, naming policies, subtitles, automation and local conversion. For personal, non-commercial use.</td>
   </tr>
   <tr>
-    <td width="80" align="center" valign="top"><a href="https://github.com/Arctisoft-Studio/Arctisoft-Studio-Hub"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/Arctisoft-Studio-Hub/main/images/hub-logo.png" alt="" width="56" height="56"></a></td>
+    <td width="80" align="center" valign="top"><a href="https://github.com/Arctisoft-Studio/Arctisoft-Studio-Hub"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/Arctisoft-Studio-Hub/main/images/hub-icon.png" alt="" width="56" height="56"></a></td>
     <td valign="top"><a href="https://github.com/Arctisoft-Studio/Arctisoft-Studio-Hub"><b>Studio Hub</b></a> &nbsp;<sub>APPLICATIONS, ACCOUNT &amp; LICENSES</sub><br>
     Install, update and launch the collection, sign in once for every application, and manage licenses, purchases, registered computers and account security. Free, and never required: each application also installs and runs on its own.</td>
   </tr>
