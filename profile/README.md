@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://arctisoft-studio.com/"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/.github/main/assets/arctisoft-studio.png" alt="Arctisoft Studio" width="112" height="112"></a>
+  <a href="https://arctisoft-studio.com/"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/Arctisoft-Studio-Hub/main/images/hub-logo.png" alt="Arctisoft Studio" width="112" height="112"></a>
 </p>
 
 <h1 align="center">Arctisoft Studio</h1>
@@ -21,32 +21,32 @@ Arctisoft Studio develops desktop software for work with sound and media: proces
 
 <table>
   <tr>
-    <td width="80" align="center" valign="top"><a href="https://github.com/Arctisoft-Studio/Fidena-Audio-Processing-Studio"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/.github/main/assets/fidena.png" alt="" width="56" height="56"></a></td>
+    <td width="80" align="center" valign="top"><a href="https://github.com/Arctisoft-Studio/Fidena-Audio-Processing-Studio"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/Fidena-Audio-Processing-Studio/main/images/fidena-logo.png" alt="" width="56" height="56"></a></td>
     <td valign="top"><a href="https://github.com/Arctisoft-Studio/Fidena-Audio-Processing-Studio"><b>Fidena</b></a> &nbsp;<sub>AUDIO PROCESSING STUDIO</sub><br>
     Equalization, dynamics, repair, mastering and effects in one editable signal chain, with delivery measurement, surround beds up to 7.1.4 and rendering from a single file to unattended batches. Its processors are also available as VST3 plug-ins.</td>
   </tr>
   <tr>
-    <td width="80" align="center" valign="top"><a href="https://github.com/Arctisoft-Studio/Revelis-Audio-Quality-Analyzer"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/.github/main/assets/revelis.png" alt="" width="56" height="56"></a></td>
+    <td width="80" align="center" valign="top"><a href="https://github.com/Arctisoft-Studio/Revelis-Audio-Quality-Analyzer"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/Revelis-Audio-Quality-Analyzer/main/images/revelis-logo.png" alt="" width="56" height="56"></a></td>
     <td valign="top"><a href="https://github.com/Arctisoft-Studio/Revelis-Audio-Quality-Analyzer"><b>Revelis</b></a> &nbsp;<sub>AUDIO QUALITY ANALYZER</sub><br>
     Loudness, true peak, dynamics, spectrum and stereo measurement for files, folders and live input; comparison of two masters; and delivery checks against named specifications such as EBU R 128, with the evidence behind every result.</td>
   </tr>
   <tr>
-    <td width="80" align="center" valign="top"><a href="https://github.com/Arctisoft-Studio/Notalis-Advanced-Tag-Editor"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/.github/main/assets/notalis.png" alt="" width="56" height="56"></a></td>
+    <td width="80" align="center" valign="top"><a href="https://github.com/Arctisoft-Studio/Notalis-Advanced-Tag-Editor"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/Notalis-Advanced-Tag-Editor/main/assets/branding/notalis-icon.png" alt="" width="56" height="56"></a></td>
     <td valign="top"><a href="https://github.com/Arctisoft-Studio/Notalis-Advanced-Tag-Editor"><b>Notalis</b></a> &nbsp;<sub>ADVANCED TAG EDITOR</sub><br>
     Metadata and artwork for audio and video, from single files to indexed libraries. Every change is staged and compared with the tags on disk before it is written; rules, release identification and undo keep large collections consistent.</td>
   </tr>
   <tr>
-    <td width="80" align="center" valign="top"><a href="https://github.com/Arctisoft-Studio/Cascera-Universal-Downloader"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/.github/main/assets/cascera.png" alt="" width="56" height="56"></a></td>
+    <td width="80" align="center" valign="top"><a href="https://github.com/Arctisoft-Studio/Cascera-Universal-Downloader"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/Cascera-Universal-Downloader/main/images/cascera-logo.png" alt="" width="56" height="56"></a></td>
     <td valign="top"><a href="https://github.com/Arctisoft-Studio/Cascera-Universal-Downloader"><b>Cascera</b></a> &nbsp;<sub>UNIVERSAL DOWNLOADER</sub><br>
     Review a source and its streams, choose exactly what you need and manage the work in a recoverable queue, with profiles, naming policies, subtitles, automation and local conversion. For personal, non-commercial use.</td>
   </tr>
   <tr>
-    <td width="80" align="center" valign="top"><a href="https://github.com/Arctisoft-Studio/Arctisoft-Studio-Hub"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/.github/main/assets/arctisoft-studio.png" alt="" width="56" height="56"></a></td>
+    <td width="80" align="center" valign="top"><a href="https://github.com/Arctisoft-Studio/Arctisoft-Studio-Hub"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/Arctisoft-Studio-Hub/main/images/hub-logo.png" alt="" width="56" height="56"></a></td>
     <td valign="top"><a href="https://github.com/Arctisoft-Studio/Arctisoft-Studio-Hub"><b>Studio Hub</b></a> &nbsp;<sub>APPLICATIONS, ACCOUNT &amp; LICENSES</sub><br>
     Install, update and launch the collection, sign in once for every application, and manage licenses, purchases, registered computers and account security. Free, and never required: each application also installs and runs on its own.</td>
   </tr>
   <tr>
-    <td width="80" align="center" valign="top"><a href="https://arctisoft-studio.com/software/metria/"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/.github/main/assets/metria.png" alt="" width="56" height="56"></a></td>
+    <td width="80" align="center" valign="top"><a href="https://arctisoft-studio.com/software/metria/"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/Arctisoft-Studio-Hub/main/images/metria-logo.png" alt="" width="56" height="56"></a></td>
     <td valign="top"><a href="https://arctisoft-studio.com/software/metria/"><b>Metria</b></a> &nbsp;<sub>DIGITAL AUDIO WORKSTATION · IN DEVELOPMENT</sub><br>
     Recording, arranging and mixing, made for the Arctisoft collection.</td>
   </tr>
