@@ -23,7 +23,7 @@ Arctisoft Studio develops desktop software for work with sound and media: proces
   <tr>
     <td width="80" align="center" valign="top"><a href="https://github.com/Arctisoft-Studio/Fidena-Audio-Processing-Studio"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/Fidena-Audio-Processing-Studio/main/images/fidena-logo.png" alt="" width="56" height="56"></a></td>
     <td valign="top"><a href="https://github.com/Arctisoft-Studio/Fidena-Audio-Processing-Studio"><b>Fidena</b></a> &nbsp;<sub>AUDIO PROCESSING STUDIO</sub><br>
-    Equalization, dynamics, repair, mastering and effects in one editable signal chain, with delivery measurement, surround beds up to 7.1.4 and rendering from a single file to unattended batches. Its processors are also available as VST3 plug-ins.</td>
+    Equalization, dynamics, repair, mastering and effects in one editable signal chain, with delivery measurement, surround up to 7.1.4 and batch rendering. Its processors also run as VST3 plug-ins in your DAW.</td>
   </tr>
   <tr>
     <td width="80" align="center" valign="top"><a href="https://github.com/Arctisoft-Studio/Revelis-Audio-Quality-Analyzer"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/Revelis-Audio-Quality-Analyzer/main/images/revelis-logo.png" alt="" width="56" height="56"></a></td>
@@ -48,7 +48,7 @@ Arctisoft Studio develops desktop software for work with sound and media: proces
   <tr>
     <td width="80" align="center" valign="top"><a href="https://arctisoft-studio.com/software/metria/"><img src="https://raw.githubusercontent.com/Arctisoft-Studio/Arctisoft-Studio-Hub/main/images/metria-logo.png" alt="" width="56" height="56"></a></td>
     <td valign="top"><a href="https://arctisoft-studio.com/software/metria/"><b>Metria</b></a> &nbsp;<sub>DIGITAL AUDIO WORKSTATION · IN DEVELOPMENT</sub><br>
-    Recording, arranging and mixing, made for the Arctisoft collection.</td>
+    Recording, arranging and mixing for the Arctisoft collection. Already working: a piano roll with 48 note transforms, a conditional step sequencer, a chord track that writes editable parts, and Scala microtuning.</td>
   </tr>
 </table>
 
