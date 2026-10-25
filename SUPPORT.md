@@ -10,7 +10,7 @@ Help & Support in Studio Hub can attach diagnostic details to a request, which u
 
 ## Issues in the release repositories
 
-The release repositories publish documentation, release notes and installers. Use an issue there to report a reproducible defect in a published release. Questions about accounts, licenses, purchases and personal data are handled by email, not in public issues.
+The release repositories publish documentation, release notes and installers. Use an issue there to report a reproducible defect in a published release or to suggest an improvement. Questions about accounts, licenses, purchases and personal data are handled by email, not in public issues.
 
 ## Security
 

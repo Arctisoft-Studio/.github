@@ -1,0 +1,35 @@
+name: Suggestion
+description: Suggest an improvement to a published application.
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping us improve the application. Please do not include passwords, license keys or personal data.
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: The application version you are using, shown in Studio Hub and in the application itself.
+      placeholder: "2.0.0"
+    validations:
+      required: true
+  - type: textarea
+    id: task
+    attributes:
+      label: What you are trying to do
+      description: The task or workflow, and where the application currently stands in your way.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement
+      description: How the application could support it.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Additional details
+      description: Examples, screenshots or how other software handles it.
